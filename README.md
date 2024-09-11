@@ -1,16 +1,35 @@
-# myexpapp
+# MyExpenseApp
 
-A new Flutter project.
+A Flutter application for tracking expenses with a bar chart view for analysis. This app demonstrates how to manage and visualize expenses without using a database or shared preferences.
+
+## Overview
+
+This app is a simple expense tracker that allows users to:
+- Add and view expenses
+- Analyze expenses through a bar chart visualization
+- Track expenses in real-time without persisting data between sessions
+
+## Features
+
+- **Expense Tracking**: Add and view expenses in a list format.
+- **Bar Chart Analysis**: Visualize expenses with a bar chart to analyze spending trends.
+- **In-Memory Data Management**: Expense data is managed in-memory, without using a database or shared preferences.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- A device or emulator for testing
+
+### Setup
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/your-username/myexpenseapp.git
